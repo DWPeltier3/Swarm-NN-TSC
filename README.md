@@ -44,8 +44,12 @@ This codebase is optimized for use on High-Performance Computing (HPC) environme
 ## Dataset and Trained Models
 
 Available from the repo releases:
-Dataset: https://github.com/DWPeltier3/Swarm-NN-TSC/releases/tag/v1.0-dataset
-Trained Models: https://github.com/DWPeltier3/Swarm-NN-TSC/releases/tag/v1.1-trained-models
+
+### Dataset
+- https://github.com/DWPeltier3/Swarm-NN-TSC/releases/tag/v1.0-dataset
+
+### Trained Models
+- https://github.com/DWPeltier3/Swarm-NN-TSC/releases/tag/v1.1-trained-models
 
 ---
 
